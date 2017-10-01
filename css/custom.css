@@ -33,7 +33,8 @@ a:active{font-size:20px;text-decoration:none;}
 .product__card{display:block;height:280px; width: 410px;color:transparent;-webkit-transition:all .5s;-o-transition:all .5s;transition:all .5s;margin-left:0;margin:25px 0 0 25px;border: 15px solid white;  border-radius: 10px;}
 .product__card:hover{-webkit-transform:scale(1.1);-ms-transform:scale(1.1);-o-transform:scale(1.1);transform:scale(1.1)}
 .product__info{float:left;margin-left:0;margin-right:0}
-.product__text{line-height:36px;font-size:17px;text-align:justify;}
+.product__text{line-height:25px;font-size:17px;text-align:justify; color: #777;}
+.features{line-height:25px;font-size:17px;text-align:justify; color: #777;}
 .who-we-are{margin-top: 20px; position: relative; left: -10px;}
 .choose-us{background-image:url(../img/chooseUsBg1.jpg);background-size:cover;background-repeat:no-repeat;background-attachment:fixed;text-align:center;margin-bottom:80px;margin-top:10px; #f3f3f5}
 .choose-us h3{font-size:32px;color:#fff;font-weight:400;margin:50px;}
